@@ -1104,7 +1104,7 @@ def make_true_scan3d_scene(mesh_v, mesh_f, pa, target, scan, current_shot, clust
             yaxis_title="Y [mm]",
             zaxis_title="Z [mm]",
             aspectmode="data",
-            camera=dict(eye=dict(x=1.45, y=1.55, z=0.95)),
+            camera=dict(eye=dict(x=-1.45, y=1.55, z=0.95)),
         ),
         legend=dict(orientation="h", y=1.02, x=0.03),
     )
