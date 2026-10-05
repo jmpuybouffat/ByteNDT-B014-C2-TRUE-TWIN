@@ -1619,12 +1619,20 @@ def make_overview_scene(mesh_v,mesh_f,pa,target,clusters,truth):
             text=truth["edm_id"],textposition="top center",marker=dict(size=8,color="#00AA44",symbol="x"),
             name="Mechanical EDM truth — post-validation"
         ))
-    fig.update_layout(
-        height=720,title="Twin overview — geometry → trajectory → acoustic paths → blind indications",
-        margin=dict(l=0,r=0,t=55,b=0),scene=dict(xaxis_title="X [mm]",yaxis_title="Y [mm]",zaxis_title="Z [mm]",aspectmode="data",
-        camera=dict(eye=dict(x=1.45,y=-1.55,z=.95))),legend=dict(orientation="h",y=1.02)
+       fig.update_layout(
+        height=720,
+        title="Twin overview - geometry + trajectory + acoustic paths + blind indications",
+        margin=dict(l=0, r=0, t=55, b=0),
+        scene=dict(
+            xaxis_title="X [mm]",
+            yaxis_title="Y [mm]",
+            zaxis_title="Z [mm]",
+            aspectmode="data",
+            camera=dict(eye=dict(x=1.45, y=-1.55, z=0.95))
+        ),
+        legend=dict(orientation="h", y=1.02)
     )
-    return fig
+    return fig    
 
 
 def make_indication_focus_scene(mesh_v,mesh_f,pa,target,validation_row,clusters):
