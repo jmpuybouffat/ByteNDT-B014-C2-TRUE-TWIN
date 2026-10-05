@@ -1619,7 +1619,7 @@ def make_overview_scene(mesh_v,mesh_f,pa,target,clusters,truth):
             text=truth["edm_id"],textposition="top center",marker=dict(size=8,color="#00AA44",symbol="x"),
             name="Mechanical EDM truth — post-validation"
         ))
-       fig.update_layout(
+ fig.update_layout(
         height=720,
         title="Twin overview – geometry → trajectory → acoustic paths → blind indications",
         margin=dict(l=0, r=0, t=55, b=0),
