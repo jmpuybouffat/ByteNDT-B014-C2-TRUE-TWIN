@@ -14,7 +14,7 @@ APP_TITLE = "Byte NDT — B014 TRUE TWIN — FACE 2 — Fusion 3D Scan + Progres
 
 REPO = Path(__file__).resolve().parent
 DOWNLOADS = Path.home() / "Downloads"
-DATA_DIR = REPO / "B014_C2_DATA"
+DATA_DIR = REPO"
 
 # -----------------------------------------------------------------------------
 # FROZEN FUSION INPUTS — no legacy B001 image is used to build the scan.
