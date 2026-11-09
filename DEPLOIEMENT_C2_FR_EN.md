@@ -17,3 +17,5 @@ La vue utilise des transformations rigides par pose, un contact sur le maillage,
 Ne pas mettre en service une révision qui échoue aux contrôles du dossier reference_c2. La présence du code sur GitHub ne confirme pas, à elle seule, la révision exécutée dans Streamlit.
 
 R2 : le bouton Lecture attend la disponibilité de la vue, la commande est confirmée et réémise en cas de perte, et le départ/arrivée utilisent une rampe bornée à600ms. Pause/reprise et fin199/199 testées. Les sept blocs de données sources/mécaniques sont identiques àR1. Le temps de lecture est animé, pas une acquisition physique.
+
+Vue G1 corrigée : le trait rouge respecte la profondeur, caméra à hauteur de gorge, coupe locale réelle. Identifiant visible : « C2 · Première gorge intrados G1 · Vue corrigée · 199 positions ». Les ZIP R1/R2 sont des versions de travail antérieures. Utiliser la future adresse Streamlit comme référence courante.

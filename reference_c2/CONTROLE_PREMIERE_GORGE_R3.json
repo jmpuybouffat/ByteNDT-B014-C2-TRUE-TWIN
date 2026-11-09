@@ -1,0 +1,1203 @@
+{
+  "method": "Independent full root-profile extrema; longest repeated fir-tree groove train (8\u201316mm height spacing, widening toward platform); uppermost concave root valley. Platform/airfoil pockets excluded by reversal of radial width progression.",
+  "positions": 199,
+  "maximum_target_to_first_valley_mm": 2.8435583831733384e-14,
+  "numerical_target_change": false,
+  "rendering_problem": "R2 rendered red tube without depth testing from an elevated viewpoint; projection could cover lips. R3 respects occlusion and uses a target-height viewpoint.",
+  "records": [
+    {
+      "shot": 1,
+      "uppermost_concave_valley_local_height_mm": 2.9335988843028575,
+      "next_valley_height_mm": -9.67268338929031,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 2,
+      "uppermost_concave_valley_local_height_mm": 2.9323010302707178,
+      "next_valley_height_mm": -9.68792874959761,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 3,
+      "uppermost_concave_valley_local_height_mm": 2.9240294572783885,
+      "next_valley_height_mm": -9.754013221005486,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 4,
+      "uppermost_concave_valley_local_height_mm": 2.9157578842860596,
+      "next_valley_height_mm": -9.820097692413361,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 5,
+      "uppermost_concave_valley_local_height_mm": 2.9074863112937304,
+      "next_valley_height_mm": -9.886182163821237,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 6,
+      "uppermost_concave_valley_local_height_mm": 2.899214738301402,
+      "next_valley_height_mm": -9.952266635229112,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 7,
+      "uppermost_concave_valley_local_height_mm": 2.89839265514093,
+      "next_valley_height_mm": -9.963739371860203,
+      "target_to_first_valley_mm": 7.17448075233818e-15
+    },
+    {
+      "shot": 8,
+      "uppermost_concave_valley_local_height_mm": 2.890165939463704,
+      "next_valley_height_mm": -10.029451389638753,
+      "target_to_first_valley_mm": 1.7798229048217483e-15
+    },
+    {
+      "shot": 9,
+      "uppermost_concave_valley_local_height_mm": 2.881939223786478,
+      "next_valley_height_mm": -10.095163407417303,
+      "target_to_first_valley_mm": 7.601582815929793e-15
+    },
+    {
+      "shot": 10,
+      "uppermost_concave_valley_local_height_mm": 2.8737125081092514,
+      "next_valley_height_mm": -10.160875425195856,
+      "target_to_first_valley_mm": 7.324948293788351e-15
+    },
+    {
+      "shot": 11,
+      "uppermost_concave_valley_local_height_mm": 2.8375092473234447,
+      "next_valley_height_mm": -10.208507988520163,
+      "target_to_first_valley_mm": 1.790180836524724e-15
+    },
+    {
+      "shot": 12,
+      "uppermost_concave_valley_local_height_mm": 2.7965959925872217,
+      "next_valley_height_mm": -10.217548124834652,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 13,
+      "uppermost_concave_valley_local_height_mm": 2.79388365916917,
+      "next_valley_height_mm": -10.21882434318684,
+      "target_to_first_valley_mm": 1.7798229048217483e-15
+    },
+    {
+      "shot": 14,
+      "uppermost_concave_valley_local_height_mm": 2.7533018962984848,
+      "next_valley_height_mm": -10.227790910523527,
+      "target_to_first_valley_mm": 3.5596458096434965e-15
+    },
+    {
+      "shot": 15,
+      "uppermost_concave_valley_local_height_mm": 2.712720133427801,
+      "next_valley_height_mm": -10.236757477860216,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 16,
+      "uppermost_concave_valley_local_height_mm": 2.672138370557116,
+      "next_valley_height_mm": -10.245724045196903,
+      "target_to_first_valley_mm": 1.7798229048217483e-15
+    },
+    {
+      "shot": 17,
+      "uppermost_concave_valley_local_height_mm": 2.6315566076864294,
+      "next_valley_height_mm": -10.254690612533592,
+      "target_to_first_valley_mm": 7.94721185223203e-15
+    },
+    {
+      "shot": 18,
+      "uppermost_concave_valley_local_height_mm": 2.629806104423763,
+      "next_valley_height_mm": -10.255735460265054,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 19,
+      "uppermost_concave_valley_local_height_mm": 2.58948376585019,
+      "next_valley_height_mm": -10.264644395029347,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 20,
+      "uppermost_concave_valley_local_height_mm": 2.549161427276615,
+      "next_valley_height_mm": -10.27355332979364,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 21,
+      "uppermost_concave_valley_local_height_mm": 2.508839088703042,
+      "next_valley_height_mm": -10.282462264557934,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 22,
+      "uppermost_concave_valley_local_height_mm": 2.468516750129469,
+      "next_valley_height_mm": -10.291371199322226,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 23,
+      "uppermost_concave_valley_local_height_mm": 2.4281944115558964,
+      "next_valley_height_mm": -10.30028013408652,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 24,
+      "uppermost_concave_valley_local_height_mm": 2.4285478019133606,
+      "next_valley_height_mm": -10.30086352213576,
+      "target_to_first_valley_mm": 1.1102230246251565e-16
+    },
+    {
+      "shot": 25,
+      "uppermost_concave_valley_local_height_mm": 2.388419598544058,
+      "next_valley_height_mm": -10.309729250658215,
+      "target_to_first_valley_mm": 3.5566146649215975e-15
+    },
+    {
+      "shot": 26,
+      "uppermost_concave_valley_local_height_mm": 2.348291395174754,
+      "next_valley_height_mm": -10.318594979180668,
+      "target_to_first_valley_mm": 1.1102230246251565e-16
+    },
+    {
+      "shot": 27,
+      "uppermost_concave_valley_local_height_mm": 2.3081631918054506,
+      "next_valley_height_mm": -10.327460707703123,
+      "target_to_first_valley_mm": 1.4245939555527722e-14
+    },
+    {
+      "shot": 28,
+      "uppermost_concave_valley_local_height_mm": 2.2680349884361473,
+      "next_valley_height_mm": -10.336326436225578,
+      "target_to_first_valley_mm": 3.553147333202946e-15
+    },
+    {
+      "shot": 29,
+      "uppermost_concave_valley_local_height_mm": 2.227906785066844,
+      "next_valley_height_mm": -10.345192164748031,
+      "target_to_first_valley_mm": 3.554447978966673e-15
+    },
+    {
+      "shot": 30,
+      "uppermost_concave_valley_local_height_mm": 2.2288596365311957,
+      "next_valley_height_mm": -10.345630124638063,
+      "target_to_first_valley_mm": 1.1102230246251565e-16
+    },
+    {
+      "shot": 31,
+      "uppermost_concave_valley_local_height_mm": 2.2438801371095165,
+      "next_valley_height_mm": -10.351791029004717,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 32,
+      "uppermost_concave_valley_local_height_mm": 2.2658976070763956,
+      "next_valley_height_mm": -10.355535412460885,
+      "target_to_first_valley_mm": 1.4238583238573986e-14
+    },
+    {
+      "shot": 33,
+      "uppermost_concave_valley_local_height_mm": 2.287915077043276,
+      "next_valley_height_mm": -10.359279795917052,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 34,
+      "uppermost_concave_valley_local_height_mm": 2.3099325470101553,
+      "next_valley_height_mm": -10.36302417937322,
+      "target_to_first_valley_mm": 3.552713678800501e-15
+    },
+    {
+      "shot": 35,
+      "uppermost_concave_valley_local_height_mm": 2.3089838193616083,
+      "next_valley_height_mm": -10.363136267219769,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 36,
+      "uppermost_concave_valley_local_height_mm": 2.330878327095797,
+      "next_valley_height_mm": -10.366859282138687,
+      "target_to_first_valley_mm": 4.440892098500626e-16
+    },
+    {
+      "shot": 37,
+      "uppermost_concave_valley_local_height_mm": 2.3527728348299863,
+      "next_valley_height_mm": -10.370582297057606,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 38,
+      "uppermost_concave_valley_local_height_mm": 2.3746673425641753,
+      "next_valley_height_mm": -10.374305311976524,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 39,
+      "uppermost_concave_valley_local_height_mm": 2.396561850298364,
+      "next_valley_height_mm": -10.378028326895445,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 40,
+      "uppermost_concave_valley_local_height_mm": 2.4184563580325533,
+      "next_valley_height_mm": -10.381751341814361,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 41,
+      "uppermost_concave_valley_local_height_mm": 2.4168253004732008,
+      "next_valley_height_mm": -10.38174320350688,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 42,
+      "uppermost_concave_valley_local_height_mm": 2.4386328683781233,
+      "next_valley_height_mm": -10.385450982945253,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 43,
+      "uppermost_concave_valley_local_height_mm": 2.460440436283046,
+      "next_valley_height_mm": -10.389158762383625,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 44,
+      "uppermost_concave_valley_local_height_mm": 2.4822480041879693,
+      "next_valley_height_mm": -10.392866541821999,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 45,
+      "uppermost_concave_valley_local_height_mm": 2.5040555720928928,
+      "next_valley_height_mm": -10.396574321260369,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 46,
+      "uppermost_concave_valley_local_height_mm": 2.525863139997815,
+      "next_valley_height_mm": -10.40028210069874,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 47,
+      "uppermost_concave_valley_local_height_mm": 2.523750632653467,
+      "next_valley_height_mm": -10.400188710830307,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 48,
+      "uppermost_concave_valley_local_height_mm": 2.5455068512956593,
+      "next_valley_height_mm": -10.403887310901638,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 49,
+      "uppermost_concave_valley_local_height_mm": 2.5672630699378507,
+      "next_valley_height_mm": -10.40758591097297,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 50,
+      "uppermost_concave_valley_local_height_mm": 2.552055997242734,
+      "next_valley_height_mm": -10.41404264778859,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 51,
+      "uppermost_concave_valley_local_height_mm": 2.503240698114192,
+      "next_valley_height_mm": -10.423930208260687,
+      "target_to_first_valley_mm": 2.220446049250313e-16
+    },
+    {
+      "shot": 52,
+      "uppermost_concave_valley_local_height_mm": 2.509376949837241,
+      "next_valley_height_mm": -10.423401704219678,
+      "target_to_first_valley_mm": 2.220446049250313e-16
+    },
+    {
+      "shot": 53,
+      "uppermost_concave_valley_local_height_mm": 2.460817544142991,
+      "next_valley_height_mm": -10.433238571636092,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 54,
+      "uppermost_concave_valley_local_height_mm": 2.41225813844874,
+      "next_valley_height_mm": -10.443075439052508,
+      "target_to_first_valley_mm": 2.220446049250313e-16
+    },
+    {
+      "shot": 55,
+      "uppermost_concave_valley_local_height_mm": 2.36369873275449,
+      "next_valley_height_mm": -10.452912306468923,
+      "target_to_first_valley_mm": 1.592696094159622e-14
+    },
+    {
+      "shot": 56,
+      "uppermost_concave_valley_local_height_mm": 2.3151393270602405,
+      "next_valley_height_mm": -10.462749173885337,
+      "target_to_first_valley_mm": 1.5902176704146846e-14
+    },
+    {
+      "shot": 57,
+      "uppermost_concave_valley_local_height_mm": 2.26657992136599,
+      "next_valley_height_mm": -10.472586041301753,
+      "target_to_first_valley_mm": 2.220446049250313e-16
+    },
+    {
+      "shot": 58,
+      "uppermost_concave_valley_local_height_mm": 2.273101863814767,
+      "next_valley_height_mm": -10.47196735571298,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 59,
+      "uppermost_concave_valley_local_height_mm": 2.224713742149351,
+      "next_valley_height_mm": -10.481770632231088,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 60,
+      "uppermost_concave_valley_local_height_mm": 2.1763256204839334,
+      "next_valley_height_mm": -10.491573908749196,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 61,
+      "uppermost_concave_valley_local_height_mm": 2.1279374988185165,
+      "next_valley_height_mm": -10.501377185267305,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 62,
+      "uppermost_concave_valley_local_height_mm": 2.0795493771530973,
+      "next_valley_height_mm": -10.511180461785415,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 63,
+      "uppermost_concave_valley_local_height_mm": 2.0311612554876812,
+      "next_valley_height_mm": -10.520983738303523,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 64,
+      "uppermost_concave_valley_local_height_mm": 2.038583635154336,
+      "next_valley_height_mm": -10.52018491505411,
+      "target_to_first_valley_mm": 2.220446049250313e-16
+    },
+    {
+      "shot": 65,
+      "uppermost_concave_valley_local_height_mm": 1.9902903314781606,
+      "next_valley_height_mm": -10.529970081791589,
+      "target_to_first_valley_mm": 2.220446049250313e-16
+    },
+    {
+      "shot": 66,
+      "uppermost_concave_valley_local_height_mm": 1.9419970278019862,
+      "next_valley_height_mm": -10.539755248529069,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 67,
+      "uppermost_concave_valley_local_height_mm": 1.8937037241258128,
+      "next_valley_height_mm": -10.549540415266549,
+      "target_to_first_valley_mm": 6.661338147750939e-16
+    },
+    {
+      "shot": 68,
+      "uppermost_concave_valley_local_height_mm": 1.8454104204496375,
+      "next_valley_height_mm": -10.559325582004028,
+      "target_to_first_valley_mm": 6.661338147750939e-16
+    },
+    {
+      "shot": 69,
+      "uppermost_concave_valley_local_height_mm": 1.8547084783948231,
+      "next_valley_height_mm": -10.55816739443784,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 70,
+      "uppermost_concave_valley_local_height_mm": 1.806429814146793,
+      "next_valley_height_mm": -10.567970374609594,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 71,
+      "uppermost_concave_valley_local_height_mm": 1.8165509562881896,
+      "next_valley_height_mm": -10.58378512449943,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 72,
+      "uppermost_concave_valley_local_height_mm": 1.844974716133673,
+      "next_valley_height_mm": -10.599599874389268,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 73,
+      "uppermost_concave_valley_local_height_mm": 1.8733984759791578,
+      "next_valley_height_mm": -10.615414624279104,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 74,
+      "uppermost_concave_valley_local_height_mm": 1.9018222358246426,
+      "next_valley_height_mm": -10.63122937416894,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 75,
+      "uppermost_concave_valley_local_height_mm": 1.8964394407958367,
+      "next_valley_height_mm": -10.629359498215528,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 76,
+      "uppermost_concave_valley_local_height_mm": 1.92478915644424,
+      "next_valley_height_mm": -10.645129979451976,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 77,
+      "uppermost_concave_valley_local_height_mm": 1.9531388720926446,
+      "next_valley_height_mm": -10.660900460688422,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 78,
+      "uppermost_concave_valley_local_height_mm": 1.9814885877410482,
+      "next_valley_height_mm": -10.676670941924872,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 79,
+      "uppermost_concave_valley_local_height_mm": 2.0098383033894542,
+      "next_valley_height_mm": -10.692441423161322,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 80,
+      "uppermost_concave_valley_local_height_mm": 2.038188019037858,
+      "next_valley_height_mm": -10.70821190439777,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 81,
+      "uppermost_concave_valley_local_height_mm": 2.0331880669605664,
+      "next_valley_height_mm": -10.706512255583851,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 82,
+      "uppermost_concave_valley_local_height_mm": 2.0615097444107167,
+      "next_valley_height_mm": -10.722264150394336,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 83,
+      "uppermost_concave_valley_local_height_mm": 2.0898314218608687,
+      "next_valley_height_mm": -10.738016045204823,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 84,
+      "uppermost_concave_valley_local_height_mm": 2.118153099311019,
+      "next_valley_height_mm": -10.75376794001531,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 85,
+      "uppermost_concave_valley_local_height_mm": 2.14647477676117,
+      "next_valley_height_mm": -10.769519834825799,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 86,
+      "uppermost_concave_valley_local_height_mm": 2.1408355956177756,
+      "next_valley_height_mm": -10.767468688661143,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 87,
+      "uppermost_concave_valley_local_height_mm": 2.16917478745994,
+      "next_valley_height_mm": -10.78322729197627,
+      "target_to_first_valley_mm": 7.105427357601002e-15
+    },
+    {
+      "shot": 88,
+      "uppermost_concave_valley_local_height_mm": 2.1975139793021055,
+      "next_valley_height_mm": -10.798985895291398,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 89,
+      "uppermost_concave_valley_local_height_mm": 2.225853171144272,
+      "next_valley_height_mm": -10.814744498606526,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 90,
+      "uppermost_concave_valley_local_height_mm": 2.2541923629864367,
+      "next_valley_height_mm": -10.721641730512482,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 91,
+      "uppermost_concave_valley_local_height_mm": 2.2526432301300656,
+      "next_valley_height_mm": -10.51833178479143,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 92,
+      "uppermost_concave_valley_local_height_mm": 2.2532098416506057,
+      "next_valley_height_mm": -10.55004179891684,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 93,
+      "uppermost_concave_valley_local_height_mm": 2.2506764062075613,
+      "next_valley_height_mm": -10.347144520221416,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 94,
+      "uppermost_concave_valley_local_height_mm": 2.2481429707645173,
+      "next_valley_height_mm": -10.14424724152599,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 95,
+      "uppermost_concave_valley_local_height_mm": 2.245609535321474,
+      "next_valley_height_mm": -9.975470898419749,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 96,
+      "uppermost_concave_valley_local_height_mm": 2.243076099878429,
+      "next_valley_height_mm": -10.053475370032585,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 97,
+      "uppermost_concave_valley_local_height_mm": 2.240542664435385,
+      "next_valley_height_mm": -10.131479841645417,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 98,
+      "uppermost_concave_valley_local_height_mm": 2.241087965619962,
+      "next_valley_height_mm": -10.119905387315494,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 99,
+      "uppermost_concave_valley_local_height_mm": 2.2385559500050842,
+      "next_valley_height_mm": -10.197876568516262,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 100,
+      "uppermost_concave_valley_local_height_mm": 2.236023934390205,
+      "next_valley_height_mm": -10.275847749717032,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 101,
+      "uppermost_concave_valley_local_height_mm": 2.2334919187753273,
+      "next_valley_height_mm": -10.353818930917802,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 102,
+      "uppermost_concave_valley_local_height_mm": 2.230959903160448,
+      "next_valley_height_mm": -10.431790112118568,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 103,
+      "uppermost_concave_valley_local_height_mm": 2.2315260170051867,
+      "next_valley_height_mm": -10.41963516811858,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 104,
+      "uppermost_concave_valley_local_height_mm": 2.2289913646366655,
+      "next_valley_height_mm": -10.497698029025122,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 105,
+      "uppermost_concave_valley_local_height_mm": 2.2264567122681447,
+      "next_valley_height_mm": -10.575760889931665,
+      "target_to_first_valley_mm": 8.881784197001252e-16
+    },
+    {
+      "shot": 106,
+      "uppermost_concave_valley_local_height_mm": 2.2239220598996257,
+      "next_valley_height_mm": -10.65382375083821,
+      "target_to_first_valley_mm": 7.119291619286993e-15
+    },
+    {
+      "shot": 107,
+      "uppermost_concave_valley_local_height_mm": 2.2213874075311044,
+      "next_valley_height_mm": -10.731886611744752,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 108,
+      "uppermost_concave_valley_local_height_mm": 2.218852755162583,
+      "next_valley_height_mm": -10.809949472651297,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 109,
+      "uppermost_concave_valley_local_height_mm": 2.2194262772496947,
+      "next_valley_height_mm": -10.7976635642422,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 110,
+      "uppermost_concave_valley_local_height_mm": 2.2168847149769175,
+      "next_valley_height_mm": -10.875949847552862,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 111,
+      "uppermost_concave_valley_local_height_mm": 2.2143431527041413,
+      "next_valley_height_mm": -10.905349024592063,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 112,
+      "uppermost_concave_valley_local_height_mm": 2.1982597154008503,
+      "next_valley_height_mm": -10.915757810686207,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 113,
+      "uppermost_concave_valley_local_height_mm": 2.1800657782199138,
+      "next_valley_height_mm": -10.92616659678035,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 114,
+      "uppermost_concave_valley_local_height_mm": 2.1618718410389772,
+      "next_valley_height_mm": -10.936575382874494,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 115,
+      "uppermost_concave_valley_local_height_mm": 2.165715335935224,
+      "next_valley_height_mm": -10.935052952941597,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 116,
+      "uppermost_concave_valley_local_height_mm": 2.147518783837057,
+      "next_valley_height_mm": -10.94546389791599,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 117,
+      "uppermost_concave_valley_local_height_mm": 2.129322231738888,
+      "next_valley_height_mm": -10.95587484289039,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 118,
+      "uppermost_concave_valley_local_height_mm": 2.111125679640719,
+      "next_valley_height_mm": -10.966285787864782,
+      "target_to_first_valley_mm": 2.8435583831733384e-14
+    },
+    {
+      "shot": 119,
+      "uppermost_concave_valley_local_height_mm": 2.092929127542551,
+      "next_valley_height_mm": -10.976696732839178,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 120,
+      "uppermost_concave_valley_local_height_mm": 2.096986872447361,
+      "next_valley_height_mm": -10.975061432439961,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 121,
+      "uppermost_concave_valley_local_height_mm": 2.0787579919697055,
+      "next_valley_height_mm": -10.985491544963715,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 122,
+      "uppermost_concave_valley_local_height_mm": 2.0605291114920514,
+      "next_valley_height_mm": -10.995921657487472,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 123,
+      "uppermost_concave_valley_local_height_mm": 2.042300231014397,
+      "next_valley_height_mm": -11.006351770011227,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 124,
+      "uppermost_concave_valley_local_height_mm": 2.0240713505367425,
+      "next_valley_height_mm": -11.016781882534987,
+      "target_to_first_valley_mm": 4.440892098500626e-16
+    },
+    {
+      "shot": 125,
+      "uppermost_concave_valley_local_height_mm": 2.0058424700590867,
+      "next_valley_height_mm": -11.02721199505874,
+      "target_to_first_valley_mm": 1.4238583238573986e-14
+    },
+    {
+      "shot": 126,
+      "uppermost_concave_valley_local_height_mm": 2.009607567181906,
+      "next_valley_height_mm": -11.025745703432007,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 127,
+      "uppermost_concave_valley_local_height_mm": 1.9913166043009511,
+      "next_valley_height_mm": -11.036212010024528,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 128,
+      "uppermost_concave_valley_local_height_mm": 1.973025641419998,
+      "next_valley_height_mm": -11.04667831661705,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 129,
+      "uppermost_concave_valley_local_height_mm": 1.9547346785390436,
+      "next_valley_height_mm": -11.057144623209577,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 130,
+      "uppermost_concave_valley_local_height_mm": 1.9364437156580891,
+      "next_valley_height_mm": -11.07073616303114,
+      "target_to_first_valley_mm": 1.4210854715202004e-14
+    },
+    {
+      "shot": 131,
+      "uppermost_concave_valley_local_height_mm": 1.9198157957601707,
+      "next_valley_height_mm": -11.103590904972176,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 132,
+      "uppermost_concave_valley_local_height_mm": 1.921534047672069,
+      "next_valley_height_mm": -11.099549464876704,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 133,
+      "uppermost_concave_valley_local_height_mm": 1.9368505278162276,
+      "next_valley_height_mm": -11.132427003238996,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 134,
+      "uppermost_concave_valley_local_height_mm": 1.9577296845806131,
+      "next_valley_height_mm": -11.165304541601287,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 135,
+      "uppermost_concave_valley_local_height_mm": 1.9786088413449974,
+      "next_valley_height_mm": -11.19818207996358,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 136,
+      "uppermost_concave_valley_local_height_mm": 1.9994879981093816,
+      "next_valley_height_mm": -11.23105961832587,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 137,
+      "uppermost_concave_valley_local_height_mm": 1.9954978975638384,
+      "next_valley_height_mm": -11.226815448186567,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 138,
+      "uppermost_concave_valley_local_height_mm": 2.0164244894212673,
+      "next_valley_height_mm": -11.259769741550327,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 139,
+      "uppermost_concave_valley_local_height_mm": 2.037351081278696,
+      "next_valley_height_mm": -11.292724034914093,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 140,
+      "uppermost_concave_valley_local_height_mm": 2.0582776731361236,
+      "next_valley_height_mm": -11.325678328277853,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 141,
+      "uppermost_concave_valley_local_height_mm": 2.0792042649935527,
+      "next_valley_height_mm": -11.358632621641618,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 142,
+      "uppermost_concave_valley_local_height_mm": 2.100130856850982,
+      "next_valley_height_mm": -9.490049087949007,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 143,
+      "uppermost_concave_valley_local_height_mm": 2.0961300750514718,
+      "next_valley_height_mm": -9.487893550250337,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 144,
+      "uppermost_concave_valley_local_height_mm": 2.1171389186543608,
+      "next_valley_height_mm": -9.504824295351886,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 145,
+      "uppermost_concave_valley_local_height_mm": 2.1381477622572507,
+      "next_valley_height_mm": -9.521755040453437,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 146,
+      "uppermost_concave_valley_local_height_mm": 2.159156605860139,
+      "next_valley_height_mm": -9.538685785554986,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 147,
+      "uppermost_concave_valley_local_height_mm": 2.180165449463029,
+      "next_valley_height_mm": -9.555616530656536,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 148,
+      "uppermost_concave_valley_local_height_mm": 2.201174293065919,
+      "next_valley_height_mm": -9.572547275758083,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 149,
+      "uppermost_concave_valley_local_height_mm": 2.197707047268768,
+      "next_valley_height_mm": -9.570856606411116,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 150,
+      "uppermost_concave_valley_local_height_mm": 2.2188330623633337,
+      "next_valley_height_mm": -9.587888467935466,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 151,
+      "uppermost_concave_valley_local_height_mm": 2.2399590774579,
+      "next_valley_height_mm": -9.91087227013294,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 152,
+      "uppermost_concave_valley_local_height_mm": 2.2562678124013344,
+      "next_valley_height_mm": -10.2721978861336,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 153,
+      "uppermost_concave_valley_local_height_mm": 2.2460017866348707,
+      "next_valley_height_mm": -10.447703113691027,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 154,
+      "uppermost_concave_valley_local_height_mm": 2.2475090119892362,
+      "next_valley_height_mm": -10.447474448431866,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 155,
+      "uppermost_concave_valley_local_height_mm": 2.23721261737012,
+      "next_valley_height_mm": -10.450136846129793,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 156,
+      "uppermost_concave_valley_local_height_mm": 2.2269162227510026,
+      "next_valley_height_mm": -10.452799243827721,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 157,
+      "uppermost_concave_valley_local_height_mm": 2.2166198281318867,
+      "next_valley_height_mm": -10.455461641525652,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 158,
+      "uppermost_concave_valley_local_height_mm": 2.2063234335127704,
+      "next_valley_height_mm": -10.458124039223582,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 159,
+      "uppermost_concave_valley_local_height_mm": 2.196027038893656,
+      "next_valley_height_mm": -10.46078643692151,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 160,
+      "uppermost_concave_valley_local_height_mm": 2.1974337965084105,
+      "next_valley_height_mm": -10.460588554464255,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 161,
+      "uppermost_concave_valley_local_height_mm": 2.1870896249680403,
+      "next_valley_height_mm": -10.463263949593037,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 162,
+      "uppermost_concave_valley_local_height_mm": 2.1767454534276705,
+      "next_valley_height_mm": -10.46593934472182,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 163,
+      "uppermost_concave_valley_local_height_mm": 2.1664012818873006,
+      "next_valley_height_mm": -10.468614739850603,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 164,
+      "uppermost_concave_valley_local_height_mm": 2.156057110346929,
+      "next_valley_height_mm": -10.471290134979386,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 165,
+      "uppermost_concave_valley_local_height_mm": 2.1457129388065597,
+      "next_valley_height_mm": -10.47396553010817,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 166,
+      "uppermost_concave_valley_local_height_mm": 2.1468743311554412,
+      "next_valley_height_mm": -10.47383579749632,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 167,
+      "uppermost_concave_valley_local_height_mm": 2.1364653587742346,
+      "next_valley_height_mm": -10.476528606340567,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 168,
+      "uppermost_concave_valley_local_height_mm": 2.1260563863930293,
+      "next_valley_height_mm": -10.479221415184808,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 169,
+      "uppermost_concave_valley_local_height_mm": 2.1156474140118204,
+      "next_valley_height_mm": -10.481914224029053,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 170,
+      "uppermost_concave_valley_local_height_mm": 2.1052384416306156,
+      "next_valley_height_mm": -10.494786124608206,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 171,
+      "uppermost_concave_valley_local_height_mm": 2.106231857094673,
+      "next_valley_height_mm": -10.49409904577082,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 172,
+      "uppermost_concave_valley_local_height_mm": 2.0957393721500757,
+      "next_valley_height_mm": -10.51569692381743,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 173,
+      "uppermost_concave_valley_local_height_mm": 2.047456624567894,
+      "next_valley_height_mm": -10.537294801864038,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 174,
+      "uppermost_concave_valley_local_height_mm": 1.974413531381055,
+      "next_valley_height_mm": -10.558892679910649,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 175,
+      "uppermost_concave_valley_local_height_mm": 1.9013704381942196,
+      "next_valley_height_mm": -10.580490557957258,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 176,
+      "uppermost_concave_valley_local_height_mm": 1.8283273450073798,
+      "next_valley_height_mm": -10.60208843600387,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 177,
+      "uppermost_concave_valley_local_height_mm": 1.8323297650215586,
+      "next_valley_height_mm": -10.60217331496603,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 178,
+      "uppermost_concave_valley_local_height_mm": 1.758908299166472,
+      "next_valley_height_mm": -10.623891821240555,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 179,
+      "uppermost_concave_valley_local_height_mm": 1.6854868333113868,
+      "next_valley_height_mm": -10.645610327515083,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 180,
+      "uppermost_concave_valley_local_height_mm": 1.6120653674562981,
+      "next_valley_height_mm": -10.667328833789611,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 181,
+      "uppermost_concave_valley_local_height_mm": 1.5386439016012168,
+      "next_valley_height_mm": -10.727568047289672,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 182,
+      "uppermost_concave_valley_local_height_mm": 1.4652224357461308,
+      "next_valley_height_mm": -10.865952974481656,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 183,
+      "uppermost_concave_valley_local_height_mm": 1.4688246015212718,
+      "next_valley_height_mm": -10.867742319676136,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 184,
+      "uppermost_concave_valley_local_height_mm": 1.3948958104840956,
+      "next_valley_height_mm": -11.00710398400949,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 185,
+      "uppermost_concave_valley_local_height_mm": 1.320967019446917,
+      "next_valley_height_mm": -11.146465648342842,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 186,
+      "uppermost_concave_valley_local_height_mm": 1.2470382284097399,
+      "next_valley_height_mm": -11.285827312676194,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 187,
+      "uppermost_concave_valley_local_height_mm": 1.1731094373725646,
+      "next_valley_height_mm": -11.425188977009546,
+      "target_to_first_valley_mm": 8.881784197001252e-16
+    },
+    {
+      "shot": 188,
+      "uppermost_concave_valley_local_height_mm": 1.1753297686684858,
+      "next_valley_height_mm": -11.429864953601683,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 189,
+      "uppermost_concave_valley_local_height_mm": 1.1007549773891059,
+      "next_valley_height_mm": -11.570465570164282,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 190,
+      "uppermost_concave_valley_local_height_mm": 1.0261801861097262,
+      "next_valley_height_mm": -11.652517731388402,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 191,
+      "uppermost_concave_valley_local_height_mm": 0.9516053948303401,
+      "next_valley_height_mm": -11.650681512470133,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 192,
+      "uppermost_concave_valley_local_height_mm": 0.9290423526266518,
+      "next_valley_height_mm": -11.64884529355186,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 193,
+      "uppermost_concave_valley_local_height_mm": 0.9506543432249643,
+      "next_valley_height_mm": -11.64700907463359,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 194,
+      "uppermost_concave_valley_local_height_mm": 0.9516148003769561,
+      "next_valley_height_mm": -11.646826644626447,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 195,
+      "uppermost_concave_valley_local_height_mm": 0.9733534070571618,
+      "next_valley_height_mm": -11.64497918773682,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 196,
+      "uppermost_concave_valley_local_height_mm": 0.9950920137373693,
+      "next_valley_height_mm": -11.643131730847193,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 197,
+      "uppermost_concave_valley_local_height_mm": 1.0168306204175759,
+      "next_valley_height_mm": -11.641284273957567,
+      "target_to_first_valley_mm": 0.0
+    },
+    {
+      "shot": 198,
+      "uppermost_concave_valley_local_height_mm": 1.0385692270977844,
+      "next_valley_height_mm": -11.639436817067942,
+      "target_to_first_valley_mm": 1.4210854715202004e-14
+    },
+    {
+      "shot": 199,
+      "uppermost_concave_valley_local_height_mm": 1.060307833777991,
+      "next_valley_height_mm": -11.637589360178314,
+      "target_to_first_valley_mm": 0.0
+    }
+  ]
+}
