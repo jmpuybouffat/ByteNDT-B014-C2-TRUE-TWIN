@@ -1,0 +1,30 @@
+{
+  "D": {
+    "unchanged": true,
+    "sha256": "d267ddedfd0c6e14976152d9d84225e682fc51c2bc88985fca1e89a323036f97"
+  },
+  "ANALYSIS": {
+    "unchanged": true,
+    "sha256": "9c3ccf7ca1e3dea74108395cbe359d3ee0d189d33bb044f2b13e90b02628c73f"
+  },
+  "OPERATOR": {
+    "unchanged": true,
+    "sha256": "df3908a6b38733830e150305b718a3cafbfb0e43af96ead49f87fdacb27ed04b"
+  },
+  "DATA": {
+    "unchanged": true,
+    "sha256": "465622471cf5ee6872cfa690c7f5deea704763961dbd80b6c6d7560adc4b37bb"
+  },
+  "C2_REGISTRATION": {
+    "unchanged": true,
+    "sha256": "bfb8d6b7f7ba4dd52e2d06b8762b30d04bcee0e24ec41082fb591c7b1938139d"
+  },
+  "CONTACT": {
+    "unchanged": true,
+    "sha256": "22e70eac5dba062c1cfc90f1a8a8a3475413687aee8d6b8a1479225ef98d4e1a"
+  },
+  "BEAM3D": {
+    "unchanged": true,
+    "sha256": "7bc591ea431eab18d2a0cc42719e2bf23eb3dab3f575611b474430ba3341786e"
+  }
+}

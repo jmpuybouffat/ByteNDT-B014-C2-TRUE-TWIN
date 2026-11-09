@@ -4,9 +4,9 @@ import hashlib,json
 import streamlit as st
 from publication_view import build_publication_document
 st.set_page_config(page_title='BYTE NDT — LSB941 C2 — FR / EN',layout='wide',initial_sidebar_state='collapsed')
-RELEASE_ID='C2-199-GORGE-INTRADOS-R1'
+RELEASE_ID='C2-199-GORGE-INTRADOS-R2'
 root=Path(__file__).resolve().parent
-st.info('C2 · Trois aubes · Gorge intrados · 199 positions · R1')
+st.info('C2 · Trois aubes · Gorge intrados · 199 positions · R2')
 st.caption('PA EXTRADOS → gorge INTRADOS · six EDM 06–11 · 16 915 lois · FR / EN')
 st.caption('Rejeu des résultats sources dans des poses mécaniques recalées ; sans nouvelle qualification physique. / Source results replayed in registered mechanical poses; no new physical qualification.')
 assets=root/'assets'
@@ -18,5 +18,5 @@ with st.spinner('Chargement C2 / Loading C2…'):
  st.iframe(build_publication_document(assets),height='content',alt='C2 — 199 positions — FR / EN')
 with st.expander('Notice et fichier autonome / Guide and standalone file'):
  st.download_button('Notice FR / EN', (assets/'NOTICE_C2_FR_EN.pdf').read_bytes(),file_name='NOTICE_C2_FR_EN.pdf',mime='application/pdf')
- archive=root/'downloads/C2_FR_EN_R1.zip'
+ archive=root/'downloads/C2_FR_EN_R2.zip'
  if archive.exists():st.download_button('C2 — ZIP FR / EN',archive.read_bytes(),file_name=archive.name,mime='application/zip')

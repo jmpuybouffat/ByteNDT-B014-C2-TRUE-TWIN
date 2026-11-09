@@ -1,0 +1,178 @@
+{
+  "gated_while_loading": false,
+  "dropped_first_play_recovered": true,
+  "first_advance_ms": 2386,
+  "pause_resume": true,
+  "end_shot": 199,
+  "samples": [
+    {
+      "shot": 18,
+      "phase": 17.496470201928286,
+      "gliding": true,
+      "angle": 54.994992484979576,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 29,
+      "phase": 28.42422040104412,
+      "gliding": true,
+      "angle": 55.001201148414395,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 39,
+      "phase": 38.557888453045855,
+      "gliding": true,
+      "angle": 54.999887323836774,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 48,
+      "phase": 47.48959350038,
+      "gliding": true,
+      "angle": 55.000744924228755,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 55,
+      "phase": 54.426117040026895,
+      "gliding": true,
+      "angle": 54.99997636500011,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 64,
+      "phase": 63.79946223434166,
+      "gliding": true,
+      "angle": 54.999712109124474,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 75,
+      "phase": 74.77928807260363,
+      "gliding": true,
+      "angle": 55.00015694611895,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 84,
+      "phase": 83.12939218881225,
+      "gliding": true,
+      "angle": 55.00003840032356,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 91,
+      "phase": 90.37220575698002,
+      "gliding": true,
+      "angle": 55.00074772470507,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 98,
+      "phase": 97.9186852787286,
+      "gliding": true,
+      "angle": 55.000084220152914,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 107,
+      "phase": 106.17708642565583,
+      "gliding": true,
+      "angle": 54.99317551780296,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 113,
+      "phase": 112.56004003729211,
+      "gliding": true,
+      "angle": 54.977952570503795,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 122,
+      "phase": 121.68500814448869,
+      "gliding": true,
+      "angle": 54.999430655958186,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 132,
+      "phase": 131.06519234786174,
+      "gliding": true,
+      "angle": 55.00064408664705,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 140,
+      "phase": 139.41901544438937,
+      "gliding": true,
+      "angle": 55.00107729755026,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 149,
+      "phase": 148.54078877334942,
+      "gliding": true,
+      "angle": 55.004033329505326,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 156,
+      "phase": 155.59516161276437,
+      "gliding": true,
+      "angle": 55.003180018764255,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 167,
+      "phase": 166.10990308910317,
+      "gliding": true,
+      "angle": 54.99861400014038,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 174,
+      "phase": 173.3472770553532,
+      "gliding": true,
+      "angle": 54.989320217807084,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 185,
+      "phase": 184.00506194442082,
+      "gliding": true,
+      "angle": 54.99999420775419,
+      "playing": true,
+      "rendering": false
+    },
+    {
+      "shot": 199,
+      "phase": 198,
+      "gliding": false,
+      "angle": 55.00000000217629,
+      "playing": false,
+      "rendering": false
+    }
+  ],
+  "errors": []
+}
