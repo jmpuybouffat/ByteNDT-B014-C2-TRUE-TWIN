@@ -1,0 +1,7 @@
+{
+  "source_kernel": "original vectorized_coherent_gain",
+  "positions": 199,
+  "nonzero_nodes": 597,
+  "max_db_float32_difference": 7.645607480455396e-10,
+  "success": true
+}

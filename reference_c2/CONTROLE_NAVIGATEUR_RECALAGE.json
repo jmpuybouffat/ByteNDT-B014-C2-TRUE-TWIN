@@ -1,0 +1,1008 @@
+{
+  "frames": [
+    {
+      "shot": 1,
+      "central_angle": 54.999999999999844,
+      "fieldTriangles": 11400
+    },
+    {
+      "shot": 2,
+      "central_angle": 54.999999999999666,
+      "fieldTriangles": 11388
+    },
+    {
+      "shot": 3,
+      "central_angle": 55.00000000094566,
+      "fieldTriangles": 11422
+    },
+    {
+      "shot": 4,
+      "central_angle": 55.00000000069025,
+      "fieldTriangles": 11476
+    },
+    {
+      "shot": 5,
+      "central_angle": 55.000000000515925,
+      "fieldTriangles": 11472
+    },
+    {
+      "shot": 6,
+      "central_angle": 55.00000000039291,
+      "fieldTriangles": 11474
+    },
+    {
+      "shot": 7,
+      "central_angle": 54.99999999999999,
+      "fieldTriangles": 11484
+    },
+    {
+      "shot": 8,
+      "central_angle": 55.00000000622712,
+      "fieldTriangles": 11530
+    },
+    {
+      "shot": 9,
+      "central_angle": 55.0000000041323,
+      "fieldTriangles": 11524
+    },
+    {
+      "shot": 10,
+      "central_angle": 55.00000000536924,
+      "fieldTriangles": 11548
+    },
+    {
+      "shot": 11,
+      "central_angle": 55.00000000091617,
+      "fieldTriangles": 11560
+    },
+    {
+      "shot": 12,
+      "central_angle": 55.000000001617295,
+      "fieldTriangles": 11574
+    },
+    {
+      "shot": 13,
+      "central_angle": 54.99999999999637,
+      "fieldTriangles": 11598
+    },
+    {
+      "shot": 14,
+      "central_angle": 55.00000000011707,
+      "fieldTriangles": 11626
+    },
+    {
+      "shot": 15,
+      "central_angle": 55.00000000022484,
+      "fieldTriangles": 11640
+    },
+    {
+      "shot": 16,
+      "central_angle": 55.00000000034284,
+      "fieldTriangles": 11640
+    },
+    {
+      "shot": 17,
+      "central_angle": 55.0000000038989,
+      "fieldTriangles": 11608
+    },
+    {
+      "shot": 18,
+      "central_angle": 55.00000000000038,
+      "fieldTriangles": 11604
+    },
+    {
+      "shot": 19,
+      "central_angle": 54.999999999999964,
+      "fieldTriangles": 11612
+    },
+    {
+      "shot": 20,
+      "central_angle": 55.00000000116083,
+      "fieldTriangles": 11608
+    },
+    {
+      "shot": 21,
+      "central_angle": 55.00000000057444,
+      "fieldTriangles": 11626
+    },
+    {
+      "shot": 22,
+      "central_angle": 55.00000000025605,
+      "fieldTriangles": 11622
+    },
+    {
+      "shot": 23,
+      "central_angle": 55.000000000109374,
+      "fieldTriangles": 11646
+    },
+    {
+      "shot": 24,
+      "central_angle": 55.00000000037008,
+      "fieldTriangles": 11614
+    },
+    {
+      "shot": 25,
+      "central_angle": 55.000000000053,
+      "fieldTriangles": 11632
+    },
+    {
+      "shot": 26,
+      "central_angle": 55.00000000101683,
+      "fieldTriangles": 11674
+    },
+    {
+      "shot": 27,
+      "central_angle": 55.000000000009734,
+      "fieldTriangles": 11668
+    },
+    {
+      "shot": 28,
+      "central_angle": 54.99999999999994,
+      "fieldTriangles": 11650
+    },
+    {
+      "shot": 29,
+      "central_angle": 54.999999999999986,
+      "fieldTriangles": 11658
+    },
+    {
+      "shot": 30,
+      "central_angle": 54.99999999999673,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 31,
+      "central_angle": 54.99999999999992,
+      "fieldTriangles": 11646
+    },
+    {
+      "shot": 32,
+      "central_angle": 55.000000006317784,
+      "fieldTriangles": 11638
+    },
+    {
+      "shot": 33,
+      "central_angle": 55.00000000016028,
+      "fieldTriangles": 11644
+    },
+    {
+      "shot": 34,
+      "central_angle": 55.000000003570584,
+      "fieldTriangles": 11650
+    },
+    {
+      "shot": 35,
+      "central_angle": 55.00000000110409,
+      "fieldTriangles": 11652
+    },
+    {
+      "shot": 36,
+      "central_angle": 55.00000000394847,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 37,
+      "central_angle": 55.00000000402381,
+      "fieldTriangles": 11650
+    },
+    {
+      "shot": 38,
+      "central_angle": 55.000000004261544,
+      "fieldTriangles": 11642
+    },
+    {
+      "shot": 39,
+      "central_angle": 55.00000000523436,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 40,
+      "central_angle": 55.00000000463688,
+      "fieldTriangles": 11670
+    },
+    {
+      "shot": 41,
+      "central_angle": 55.00000000005209,
+      "fieldTriangles": 11688
+    },
+    {
+      "shot": 42,
+      "central_angle": 55.00000000449415,
+      "fieldTriangles": 11676
+    },
+    {
+      "shot": 43,
+      "central_angle": 55.00000000360008,
+      "fieldTriangles": 11676
+    },
+    {
+      "shot": 44,
+      "central_angle": 55.00000000478122,
+      "fieldTriangles": 11704
+    },
+    {
+      "shot": 45,
+      "central_angle": 55.00000000310189,
+      "fieldTriangles": 11718
+    },
+    {
+      "shot": 46,
+      "central_angle": 55.00000000342229,
+      "fieldTriangles": 11714
+    },
+    {
+      "shot": 47,
+      "central_angle": 55.00000000291083,
+      "fieldTriangles": 11718
+    },
+    {
+      "shot": 48,
+      "central_angle": 55.00000000387214,
+      "fieldTriangles": 11728
+    },
+    {
+      "shot": 49,
+      "central_angle": 55.000000002422546,
+      "fieldTriangles": 11730
+    },
+    {
+      "shot": 50,
+      "central_angle": 55.000000000434355,
+      "fieldTriangles": 11718
+    },
+    {
+      "shot": 51,
+      "central_angle": 55.00000000376689,
+      "fieldTriangles": 11704
+    },
+    {
+      "shot": 52,
+      "central_angle": 55.000000002439016,
+      "fieldTriangles": 11678
+    },
+    {
+      "shot": 53,
+      "central_angle": 55.000000002684736,
+      "fieldTriangles": 11672
+    },
+    {
+      "shot": 54,
+      "central_angle": 54.999999999937664,
+      "fieldTriangles": 11648
+    },
+    {
+      "shot": 55,
+      "central_angle": 55.00000000337057,
+      "fieldTriangles": 11650
+    },
+    {
+      "shot": 56,
+      "central_angle": 55.00000000385602,
+      "fieldTriangles": 11640
+    },
+    {
+      "shot": 57,
+      "central_angle": 55.00000000017073,
+      "fieldTriangles": 11672
+    },
+    {
+      "shot": 58,
+      "central_angle": 55.00000000000006,
+      "fieldTriangles": 11670
+    },
+    {
+      "shot": 59,
+      "central_angle": 55.000000000045645,
+      "fieldTriangles": 11682
+    },
+    {
+      "shot": 60,
+      "central_angle": 55.00000000149762,
+      "fieldTriangles": 11684
+    },
+    {
+      "shot": 61,
+      "central_angle": 55.00000000000015,
+      "fieldTriangles": 11680
+    },
+    {
+      "shot": 62,
+      "central_angle": 54.999999999998295,
+      "fieldTriangles": 11670
+    },
+    {
+      "shot": 63,
+      "central_angle": 55.00000000000038,
+      "fieldTriangles": 11690
+    },
+    {
+      "shot": 64,
+      "central_angle": 55.00000000119368,
+      "fieldTriangles": 11700
+    },
+    {
+      "shot": 65,
+      "central_angle": 54.999999999983444,
+      "fieldTriangles": 11700
+    },
+    {
+      "shot": 66,
+      "central_angle": 55.00000000000026,
+      "fieldTriangles": 11694
+    },
+    {
+      "shot": 67,
+      "central_angle": 55.00000000000031,
+      "fieldTriangles": 11716
+    },
+    {
+      "shot": 68,
+      "central_angle": 55.00000000227805,
+      "fieldTriangles": 11702
+    },
+    {
+      "shot": 69,
+      "central_angle": 55.00000000436379,
+      "fieldTriangles": 11706
+    },
+    {
+      "shot": 70,
+      "central_angle": 55.000000000274866,
+      "fieldTriangles": 11744
+    },
+    {
+      "shot": 71,
+      "central_angle": 55.00000000029677,
+      "fieldTriangles": 11742
+    },
+    {
+      "shot": 72,
+      "central_angle": 55.00000000111108,
+      "fieldTriangles": 11720
+    },
+    {
+      "shot": 73,
+      "central_angle": 55.00000000129252,
+      "fieldTriangles": 11724
+    },
+    {
+      "shot": 74,
+      "central_angle": 55.00000000353079,
+      "fieldTriangles": 11728
+    },
+    {
+      "shot": 75,
+      "central_angle": 55.00000000151164,
+      "fieldTriangles": 11736
+    },
+    {
+      "shot": 76,
+      "central_angle": 55.00000000336055,
+      "fieldTriangles": 11736
+    },
+    {
+      "shot": 77,
+      "central_angle": 55.00000000166781,
+      "fieldTriangles": 11736
+    },
+    {
+      "shot": 78,
+      "central_angle": 55.00000000031032,
+      "fieldTriangles": 11724
+    },
+    {
+      "shot": 79,
+      "central_angle": 55.00000000134014,
+      "fieldTriangles": 11732
+    },
+    {
+      "shot": 80,
+      "central_angle": 55.00000000046961,
+      "fieldTriangles": 11716
+    },
+    {
+      "shot": 81,
+      "central_angle": 55.00000000000946,
+      "fieldTriangles": 11734
+    },
+    {
+      "shot": 82,
+      "central_angle": 55.00000000261739,
+      "fieldTriangles": 11752
+    },
+    {
+      "shot": 83,
+      "central_angle": 55.000000000081315,
+      "fieldTriangles": 11714
+    },
+    {
+      "shot": 84,
+      "central_angle": 54.999999999480856,
+      "fieldTriangles": 11702
+    },
+    {
+      "shot": 85,
+      "central_angle": 55.000000000020584,
+      "fieldTriangles": 11710
+    },
+    {
+      "shot": 86,
+      "central_angle": 55.000000001499565,
+      "fieldTriangles": 11726
+    },
+    {
+      "shot": 87,
+      "central_angle": 55.000000000382734,
+      "fieldTriangles": 11708
+    },
+    {
+      "shot": 88,
+      "central_angle": 55.00000000292117,
+      "fieldTriangles": 11708
+    },
+    {
+      "shot": 89,
+      "central_angle": 55.00000002990008,
+      "fieldTriangles": 11702
+    },
+    {
+      "shot": 90,
+      "central_angle": 54.999999999999986,
+      "fieldTriangles": 11678
+    },
+    {
+      "shot": 91,
+      "central_angle": 55.000000000000114,
+      "fieldTriangles": 11680
+    },
+    {
+      "shot": 92,
+      "central_angle": 55.00000000808112,
+      "fieldTriangles": 11688
+    },
+    {
+      "shot": 93,
+      "central_angle": 54.99999999999994,
+      "fieldTriangles": 11686
+    },
+    {
+      "shot": 94,
+      "central_angle": 54.99999999999499,
+      "fieldTriangles": 11666
+    },
+    {
+      "shot": 95,
+      "central_angle": 55.000000022995614,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 96,
+      "central_angle": 55.000000018013296,
+      "fieldTriangles": 11668
+    },
+    {
+      "shot": 97,
+      "central_angle": 54.99999999277391,
+      "fieldTriangles": 11664
+    },
+    {
+      "shot": 98,
+      "central_angle": 55.00000002905077,
+      "fieldTriangles": 11648
+    },
+    {
+      "shot": 99,
+      "central_angle": 54.999999999980034,
+      "fieldTriangles": 11664
+    },
+    {
+      "shot": 100,
+      "central_angle": 54.99999999994247,
+      "fieldTriangles": 11680
+    },
+    {
+      "shot": 101,
+      "central_angle": 54.999999999999986,
+      "fieldTriangles": 11680
+    },
+    {
+      "shot": 102,
+      "central_angle": 54.999999999599666,
+      "fieldTriangles": 11718
+    },
+    {
+      "shot": 103,
+      "central_angle": 55.000000006556725,
+      "fieldTriangles": 11716
+    },
+    {
+      "shot": 104,
+      "central_angle": 54.99999999999253,
+      "fieldTriangles": 11722
+    },
+    {
+      "shot": 105,
+      "central_angle": 55.00000001757329,
+      "fieldTriangles": 11740
+    },
+    {
+      "shot": 106,
+      "central_angle": 55.000000010193574,
+      "fieldTriangles": 11740
+    },
+    {
+      "shot": 107,
+      "central_angle": 55.0000000074874,
+      "fieldTriangles": 11726
+    },
+    {
+      "shot": 108,
+      "central_angle": 55.00000002129577,
+      "fieldTriangles": 11726
+    },
+    {
+      "shot": 109,
+      "central_angle": 55.0000000132405,
+      "fieldTriangles": 11716
+    },
+    {
+      "shot": 110,
+      "central_angle": 55.00000000971454,
+      "fieldTriangles": 11680
+    },
+    {
+      "shot": 111,
+      "central_angle": 55.00000000279604,
+      "fieldTriangles": 11716
+    },
+    {
+      "shot": 112,
+      "central_angle": 55.00000000000009,
+      "fieldTriangles": 11704
+    },
+    {
+      "shot": 113,
+      "central_angle": 55.00000000014855,
+      "fieldTriangles": 11674
+    },
+    {
+      "shot": 114,
+      "central_angle": 55.000000000059124,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 115,
+      "central_angle": 54.999999999283645,
+      "fieldTriangles": 11676
+    },
+    {
+      "shot": 116,
+      "central_angle": 55.000000003545296,
+      "fieldTriangles": 11654
+    },
+    {
+      "shot": 117,
+      "central_angle": 55.000000002458236,
+      "fieldTriangles": 11670
+    },
+    {
+      "shot": 118,
+      "central_angle": 55.00000000085792,
+      "fieldTriangles": 11654
+    },
+    {
+      "shot": 119,
+      "central_angle": 55.00000000006221,
+      "fieldTriangles": 11672
+    },
+    {
+      "shot": 120,
+      "central_angle": 55.00000000000108,
+      "fieldTriangles": 11666
+    },
+    {
+      "shot": 121,
+      "central_angle": 55.00000000060656,
+      "fieldTriangles": 11652
+    },
+    {
+      "shot": 122,
+      "central_angle": 55.00000000013643,
+      "fieldTriangles": 11648
+    },
+    {
+      "shot": 123,
+      "central_angle": 55.000000000223174,
+      "fieldTriangles": 11652
+    },
+    {
+      "shot": 124,
+      "central_angle": 55.0000000001154,
+      "fieldTriangles": 11670
+    },
+    {
+      "shot": 125,
+      "central_angle": 55.000000002541,
+      "fieldTriangles": 11674
+    },
+    {
+      "shot": 126,
+      "central_angle": 54.999999999866695,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 127,
+      "central_angle": 55.00000000000849,
+      "fieldTriangles": 11672
+    },
+    {
+      "shot": 128,
+      "central_angle": 55.000000000601204,
+      "fieldTriangles": 11676
+    },
+    {
+      "shot": 129,
+      "central_angle": 55.0000000018956,
+      "fieldTriangles": 11682
+    },
+    {
+      "shot": 130,
+      "central_angle": 55.00000000063705,
+      "fieldTriangles": 11638
+    },
+    {
+      "shot": 131,
+      "central_angle": 55.0000000031914,
+      "fieldTriangles": 11632
+    },
+    {
+      "shot": 132,
+      "central_angle": 54.999999999873644,
+      "fieldTriangles": 11634
+    },
+    {
+      "shot": 133,
+      "central_angle": 55.000000000974644,
+      "fieldTriangles": 11622
+    },
+    {
+      "shot": 134,
+      "central_angle": 54.99999999975518,
+      "fieldTriangles": 11630
+    },
+    {
+      "shot": 135,
+      "central_angle": 55.00000000000811,
+      "fieldTriangles": 11660
+    },
+    {
+      "shot": 136,
+      "central_angle": 55.00000000002155,
+      "fieldTriangles": 11692
+    },
+    {
+      "shot": 137,
+      "central_angle": 55.00000000042979,
+      "fieldTriangles": 11638
+    },
+    {
+      "shot": 138,
+      "central_angle": 55.00000000332876,
+      "fieldTriangles": 11652
+    },
+    {
+      "shot": 139,
+      "central_angle": 55.00000000008568,
+      "fieldTriangles": 11632
+    },
+    {
+      "shot": 140,
+      "central_angle": 55.00000000000528,
+      "fieldTriangles": 11636
+    },
+    {
+      "shot": 141,
+      "central_angle": 55.000000000022546,
+      "fieldTriangles": 11636
+    },
+    {
+      "shot": 142,
+      "central_angle": 55.00000000003724,
+      "fieldTriangles": 11622
+    },
+    {
+      "shot": 143,
+      "central_angle": 54.999999999993236,
+      "fieldTriangles": 11662
+    },
+    {
+      "shot": 144,
+      "central_angle": 55.00000000135503,
+      "fieldTriangles": 11644
+    },
+    {
+      "shot": 145,
+      "central_angle": 55.00000000072459,
+      "fieldTriangles": 11646
+    },
+    {
+      "shot": 146,
+      "central_angle": 55.000000005090975,
+      "fieldTriangles": 11604
+    },
+    {
+      "shot": 147,
+      "central_angle": 55.00000000000708,
+      "fieldTriangles": 11602
+    },
+    {
+      "shot": 148,
+      "central_angle": 55.000000000049546,
+      "fieldTriangles": 11554
+    },
+    {
+      "shot": 149,
+      "central_angle": 54.99999999999998,
+      "fieldTriangles": 11564
+    },
+    {
+      "shot": 150,
+      "central_angle": 55.00000000000002,
+      "fieldTriangles": 11550
+    },
+    {
+      "shot": 151,
+      "central_angle": 55.00000000000012,
+      "fieldTriangles": 11552
+    },
+    {
+      "shot": 152,
+      "central_angle": 55.00000000044302,
+      "fieldTriangles": 11570
+    },
+    {
+      "shot": 153,
+      "central_angle": 55.00000000000061,
+      "fieldTriangles": 11570
+    },
+    {
+      "shot": 154,
+      "central_angle": 54.99999999999998,
+      "fieldTriangles": 11534
+    },
+    {
+      "shot": 155,
+      "central_angle": 55.000000000358675,
+      "fieldTriangles": 11508
+    },
+    {
+      "shot": 156,
+      "central_angle": 55.00000000199081,
+      "fieldTriangles": 11488
+    },
+    {
+      "shot": 157,
+      "central_angle": 55.00000000157161,
+      "fieldTriangles": 11470
+    },
+    {
+      "shot": 158,
+      "central_angle": 55.000000007858134,
+      "fieldTriangles": 11464
+    },
+    {
+      "shot": 159,
+      "central_angle": 55.00000000213172,
+      "fieldTriangles": 11480
+    },
+    {
+      "shot": 160,
+      "central_angle": 54.999999999974335,
+      "fieldTriangles": 11494
+    },
+    {
+      "shot": 161,
+      "central_angle": 55.00000000261082,
+      "fieldTriangles": 11458
+    },
+    {
+      "shot": 162,
+      "central_angle": 55.00000000237998,
+      "fieldTriangles": 11416
+    },
+    {
+      "shot": 163,
+      "central_angle": 55.000000002806736,
+      "fieldTriangles": 11434
+    },
+    {
+      "shot": 164,
+      "central_angle": 55.00000000802537,
+      "fieldTriangles": 11410
+    },
+    {
+      "shot": 165,
+      "central_angle": 55.000000003539924,
+      "fieldTriangles": 11366
+    },
+    {
+      "shot": 166,
+      "central_angle": 55.00000000060789,
+      "fieldTriangles": 11330
+    },
+    {
+      "shot": 167,
+      "central_angle": 55.00000000000014,
+      "fieldTriangles": 11322
+    },
+    {
+      "shot": 168,
+      "central_angle": 54.999999999999986,
+      "fieldTriangles": 11308
+    },
+    {
+      "shot": 169,
+      "central_angle": 55.000000000003176,
+      "fieldTriangles": 11270
+    },
+    {
+      "shot": 170,
+      "central_angle": 55.000000000000014,
+      "fieldTriangles": 11242
+    },
+    {
+      "shot": 171,
+      "central_angle": 55,
+      "fieldTriangles": 11206
+    },
+    {
+      "shot": 172,
+      "central_angle": 55.000000000031065,
+      "fieldTriangles": 11164
+    },
+    {
+      "shot": 173,
+      "central_angle": 55.000000000488434,
+      "fieldTriangles": 11092
+    },
+    {
+      "shot": 174,
+      "central_angle": 55.0000000001908,
+      "fieldTriangles": 11082
+    },
+    {
+      "shot": 175,
+      "central_angle": 55.00000000009304,
+      "fieldTriangles": 11048
+    },
+    {
+      "shot": 176,
+      "central_angle": 55.00000000006843,
+      "fieldTriangles": 10970
+    },
+    {
+      "shot": 177,
+      "central_angle": 55.00000000003508,
+      "fieldTriangles": 10984
+    },
+    {
+      "shot": 178,
+      "central_angle": 55.000000000333394,
+      "fieldTriangles": 10960
+    },
+    {
+      "shot": 179,
+      "central_angle": 55.000000000120835,
+      "fieldTriangles": 10912
+    },
+    {
+      "shot": 180,
+      "central_angle": 55.00000000015457,
+      "fieldTriangles": 10876
+    },
+    {
+      "shot": 181,
+      "central_angle": 55.00000000021069,
+      "fieldTriangles": 10832
+    },
+    {
+      "shot": 182,
+      "central_angle": 55.000000000373774,
+      "fieldTriangles": 10750
+    },
+    {
+      "shot": 183,
+      "central_angle": 55.000000000565166,
+      "fieldTriangles": 10690
+    },
+    {
+      "shot": 184,
+      "central_angle": 55.00000000000447,
+      "fieldTriangles": 10702
+    },
+    {
+      "shot": 185,
+      "central_angle": 55.00000000598241,
+      "fieldTriangles": 10596
+    },
+    {
+      "shot": 186,
+      "central_angle": 55.000000004291444,
+      "fieldTriangles": 10532
+    },
+    {
+      "shot": 187,
+      "central_angle": 55.00000000299084,
+      "fieldTriangles": 10438
+    },
+    {
+      "shot": 188,
+      "central_angle": 55.000000000640775,
+      "fieldTriangles": 10394
+    },
+    {
+      "shot": 189,
+      "central_angle": 55.00000000034962,
+      "fieldTriangles": 10258
+    },
+    {
+      "shot": 190,
+      "central_angle": 55.00000000151987,
+      "fieldTriangles": 10176
+    },
+    {
+      "shot": 191,
+      "central_angle": 55.00000000228984,
+      "fieldTriangles": 10094
+    },
+    {
+      "shot": 192,
+      "central_angle": 55.00000000276312,
+      "fieldTriangles": 9986
+    },
+    {
+      "shot": 193,
+      "central_angle": 55.000000003470724,
+      "fieldTriangles": 9896
+    },
+    {
+      "shot": 194,
+      "central_angle": 55.000000004698435,
+      "fieldTriangles": 9810
+    },
+    {
+      "shot": 195,
+      "central_angle": 55.00000000644751,
+      "fieldTriangles": 9646
+    },
+    {
+      "shot": 196,
+      "central_angle": 55.000000001591765,
+      "fieldTriangles": 9546
+    },
+    {
+      "shot": 197,
+      "central_angle": 55.000000003946944,
+      "fieldTriangles": 9402
+    },
+    {
+      "shot": 198,
+      "central_angle": 55.00000000031271,
+      "fieldTriangles": 9292
+    },
+    {
+      "shot": 199,
+      "central_angle": 55.00000000217629,
+      "fieldTriangles": 9190
+    }
+  ],
+  "continuous_motion": true,
+  "FR_EN": true,
+  "beam3D": true,
+  "sectorial_skew": true,
+  "TFM": true,
+  "voxel": true,
+  "report": true,
+  "sourceAscanFSHUnchanged": true,
+  "errors": []
+}

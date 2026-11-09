@@ -1,0 +1,16 @@
+{
+  "poses": 199,
+  "intermediate_poses": 1981,
+  "surface_path_points": 7921,
+  "max_incidence_error_deg": 0.11482725249387471,
+  "allowed_incidence_error_user_deg": 2,
+  "max_support_increment_deg": 0.2996931314346717,
+  "missing_footprint_samples": 0,
+  "mechanical_parameter_interval": [
+    36,
+    1
+  ],
+  "full_mesh_groove_extent_verified": false,
+  "source_results_unchanged": true,
+  "publication_ready": false
+}

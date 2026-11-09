@@ -1,0 +1,20 @@
+{
+  "case": "C2",
+  "direction": "PA EXTRADOS \u2192 first INTRADOS groove",
+  "source_positions": 199,
+  "rigid_determinant_max_error": 8.881784197001252e-16,
+  "orthogonality_max_error": 8.881784197001252e-16,
+  "target_transform_max_error_mm": 6.637611133276302e-14,
+  "source_range_preservation_error_mm": 5.684341886080802e-14,
+  "target_root_local_height_range_mm": [
+    0.9290423526266518,
+    2.9335988843028575
+  ],
+  "first_groove_extraction": "Opposite skin branch; highest concave valley in root-axis window[-1,7]mm. Other valleys below about-9,-22,-34mm.",
+  "mechanical_coverage_parameter_interval": [
+    36,
+    1
+  ],
+  "mechanical_coverage_is_not_source_coordinate_identity": true,
+  "physical_requalification": false
+}

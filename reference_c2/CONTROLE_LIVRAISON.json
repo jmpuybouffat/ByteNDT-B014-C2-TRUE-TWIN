@@ -1,0 +1,25 @@
+{
+  "source_positions": 199,
+  "browser_positions_verified": 199,
+  "browser_errors": [],
+  "original_Ascan_and_FSH_values_preserved": true,
+  "continuous_motion_verified": true,
+  "languages": [
+    "fr",
+    "en"
+  ],
+  "TFM_and_voxel_checked": true,
+  "standalone_document_browser_smoke": {
+    "shots": [
+      1,
+      199
+    ],
+    "FR_EN": true,
+    "report_blob": true,
+    "errors": [],
+    "test_transport": "loopback HTTP; direct file navigation restricted by managed browser policy"
+  },
+  "streamlit_entry_AppTest_exceptions": 0,
+  "full_backscatter_integrated": false,
+  "physical_requalification": false
+}

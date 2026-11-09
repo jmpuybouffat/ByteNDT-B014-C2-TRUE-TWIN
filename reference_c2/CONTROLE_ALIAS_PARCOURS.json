@@ -1,0 +1,13 @@
+{
+  "input_column": "path_range_mm",
+  "output_column": "range_mm",
+  "reason": "Original loader omitted existing frozen source field; no acoustic value recomputed",
+  "values": {
+    "EDM_06": 63.5464648464596,
+    "EDM_07": 62.98642471391462,
+    "EDM_08": 61.96074425893738,
+    "EDM_09": 60.82015020471371,
+    "EDM_10": 59.49104708181112,
+    "EDM_11": 57.564346427129465
+  }
+}

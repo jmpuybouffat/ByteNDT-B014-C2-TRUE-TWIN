@@ -1,0 +1,22 @@
+{
+  "source_code": "B014_C2_TOUTES_VUES_Z_CORRIGE_V2.py",
+  "source_sha256": "d4e6077595b2b482041db6ebac177ea6ea6fe5f8421654b82ecb58f16d5b60dd",
+  "positions": 199,
+  "EDM_frozen": 6,
+  "matched": 6,
+  "laws_per_position": 85,
+  "laws_total": 16915,
+  "encoded_shape": [
+    199,
+    520
+  ],
+  "geometry_file": "/workspace/ByteNDT-B014-C2-TRUE-TWIN/B014_C2_TRUE_TWIN_FINAL_CODE/B014_C2_BLADE.stl",
+  "functions_modified": 0,
+  "reference_kind": "Original C2 simulated encoded response plus independently frozen examination maxima, as in original app",
+  "frozen_inputs": {
+    "BYTE_NDT_V53_path_PA2_to_C2.csv": "b4877d08794b0ce18b23b7ce95bb0918ae75314c973e3618b6cca66bb950a439",
+    "C2_INDICATION_VALIDATED.csv": "2e8b3d4be4ff8aab66319c307157b18b0c0f94964772c504b1e539814644661b",
+    "BYTE_NDT_LSB941_DETECTIONS_PA2_C2.csv": "7eb4e4f130be1c0c7523dbc0d0a73f95ef0e35458cedd70df9de227a10e4f877",
+    "BYTE_NDT_LSB941_EDM_METROLOGY_PA2_C2.csv": "c88d33f74719b71fd8c9720d3143f9480b34c36ca3909205591798856e081117"
+  }
+}

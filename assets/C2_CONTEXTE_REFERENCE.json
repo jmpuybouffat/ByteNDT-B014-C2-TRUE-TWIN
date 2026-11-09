@@ -1,0 +1,9 @@
+{
+  "case": "C2",
+  "positions": 199,
+  "reference_EDMs": 6,
+  "source": "https://bytendt-b014-c2-corrige.streamlit.app/",
+  "registration_method": "Mechanical pose registration of source acoustic replay; per-shot proper rigid transforms preserve source sound paths and phase laws. Not a new physical detection validation.",
+  "physical_requalification": false,
+  "backscatter_complete": false
+}

@@ -1,0 +1,23 @@
+{
+  "source_function": "B014_C2_TOUTES_VUES_Z_CORRIGE_V2.py::vectorized_coherent_gain",
+  "source_delays_csv_sha256": "419c1a6a0b1d23e8023d859e6218b13f3b3bdd3d4538320914179497a8415c9e",
+  "positions": 199,
+  "laws_per_position": 85,
+  "elements": 64,
+  "shape": [
+    50,
+    53,
+    43
+  ],
+  "grid_step_mm": [
+    2.4693877551020407,
+    2.0,
+    2.0
+  ],
+  "maximum_source_function_difference": 0.0,
+  "voxel_count": 113950,
+  "no_hand_drawn_envelope": true,
+  "scattering_models_recomputed": false,
+  "quantity": "coherent-array sensitivity within original source acceptance, not calibrated pressure",
+  "viewer_quantization_db": 0.25
+}
