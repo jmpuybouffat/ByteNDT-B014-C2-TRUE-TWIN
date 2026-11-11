@@ -4,9 +4,9 @@ import hashlib,json
 import streamlit as st
 from publication_view import build_publication_document
 st.set_page_config(page_title='BYTE NDT — LSB941 C2 — FR / EN',layout='wide',initial_sidebar_state='collapsed')
-RELEASE_ID='C2-VUES-R04'
+RELEASE_ID='C2-VUES-R05'
 root=Path(__file__).resolve().parent
-st.info('C2 · VUES R04 · Première gorge intrados G1 · 199 positions')
+st.info('C2 · VUES R05 · Première gorge intrados G1 · 199 positions')
 st.caption('PA EXTRADOS → gorge INTRADOS · six EDM 06–11 · 16 915 lois · FR / EN')
 st.caption('Rejeu des résultats sources dans des poses mécaniques recalées ; sans nouvelle qualification physique. / Source results replayed in registered mechanical poses; no new physical qualification.')
 assets=root/'assets'
